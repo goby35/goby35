@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @goby35
 - Learning Computer Science
-- Contact for work or Study: hongngoc30524@gmail.com
+- Contact for Work or Study: hongngoc30524@gmail.com
 
 <!---
 goby35/goby35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
